@@ -1,0 +1,12 @@
+div#writer-part  img {
+    height: 64px;
+    width: 64px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+div#writer-part   button {
+    padding: 0 0 0 0;
+}

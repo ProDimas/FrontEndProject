@@ -1,0 +1,33 @@
+div#writer  img {
+    height: 64px;
+    width: 64px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+div#writer input:invalid {
+    text-decoration: underline;
+    border-color: red;
+    color: red;
+}
+
+div#writer input:valid {
+    border-color: rgb(117, 181, 23);
+}
+
+div#writer textarea {
+    height: 800px;
+    width: 800px;
+}
+
+div#writer textarea:invalid {
+    text-decoration: underline;
+    border-color: red;
+    color: red;
+}
+
+div#writer textarea:valid {
+    border-color: rgb(117, 181, 23);
+}
